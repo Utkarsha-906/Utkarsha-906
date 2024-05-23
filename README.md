@@ -1,4 +1,4 @@
-![logo]()
+![logo](https://github.com/Utkarsha-906/Utkarsha-906/blob/main/gif%20vid.gif)
 
 <h1 align="center">Hi 👋, I'm Utkarsha Kadam</h1>
 <h3 align="center">I'm a CODER!!</h3>
